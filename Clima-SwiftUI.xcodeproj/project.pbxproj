@@ -23,6 +23,7 @@
 		0B1850F12E60253D00D87A20 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0B1850F32E60253D00D87A20 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		0B1850F62E60253D00D87A20 /* Clima_SwiftUI.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Clima_SwiftUI.xcdatamodel; sourceTree = "<group>"; };
+		0B94D4F12E7ACDFE00F2B2A3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +40,7 @@
 		0B1850DE2E60253C00D87A20 = {
 			isa = PBXGroup;
 			children = (
+				0B94D4F12E7ACDFE00F2B2A3 /* README.md */,
 				0B1850E92E60253C00D87A20 /* Clima-SwiftUI */,
 				0B1850E82E60253C00D87A20 /* Products */,
 			);
